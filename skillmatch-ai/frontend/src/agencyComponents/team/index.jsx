@@ -18,7 +18,7 @@ const team = [
   },
   {
     name: "Neeraj Kumar",
-    role: "Co-founder & Frontend Developer",
+    role: "Project Mentor",
     image: neerajImg,
     description: "Crafting beautiful and intuitive user interfaces with modern frontend technologies like React and Tailwind CSS.",
     social: {

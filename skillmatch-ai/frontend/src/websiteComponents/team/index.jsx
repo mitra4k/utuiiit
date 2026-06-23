@@ -1,5 +1,4 @@
 import React from "react";
-import neerajImg from "../../assets/images/teams/neeraj.jpeg";
 import mitrabhanuImg from "../../assets/images/teams/MITRABHANU.jpeg";
 import jaiImg from "../../assets/images/teams/jai.jpeg";
 import sovanImg from "../../assets/images/teams/sovan.jpeg";
@@ -10,48 +9,41 @@ import styles from "./styles.module.scss";
 const teamMembers = [
   {
     id: 1,
-    name: "NEERAJ KUMAR",
-    role: "2201309009",
-    avatar: neerajImg,
-    color: "#4F46E5"
-  },
-  {
-    id: 2,
     name: "MITRABHANU NAIK",
     role: "2201309008",
     avatar: mitrabhanuImg,
     color: "#0891B2"
   },
   {
-    id: 3,
+    id: 2,
     name: "JAY KUMAR BUDA",
     role: "2201309004",
     avatar: jaiImg,
     color: "#059669"
   },
   {
-    id: 4,
+    id: 3,
     name: "SUMIT BHUYAN",
     role: "2201309013",
     avatar: sumitImg,
     color: "#D97706"
   },
   {
-    id: 5,
+    id: 4,
     name: "ADITYA PRASAD SWAIN",
     role: "2201309001",
     avatar: "AS",
     color: "#DC2626"
   },
   {
-    id: 6,
+    id: 5,
     name: "SOVAN KUMAR MISHRA",
     role: "2321309052",
     avatar: sovanImg,
     color: "#7C3AED"
   },
   {
-    id: 7,
+    id: 6,
     name: "OMM KUMAR BAG",
     role: "2201309010",
     avatar: "OB",

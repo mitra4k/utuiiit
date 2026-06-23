@@ -4,10 +4,10 @@ import styles from "./styles.module.scss";
 const testimonials = [
   {
     id: 1,
-    name: "Ms. Jhunurani Patel",
-    role: "Assistant Professor",
-    company: "Academic Mentor",
-    avatar: "JP",
+    name: "Neeraj Kumar",
+    role: "Project Mentor",
+    company: "Web Developer",
+    avatar: "NK",
     rating: 5,
     quote: "SkillMatch AI provides our students with a clear roadmap from academic learning to professional success. It's a game-changer for our campus placements and career counseling.",
     type: "recruiter"
